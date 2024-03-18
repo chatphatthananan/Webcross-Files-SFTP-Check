@@ -1,0 +1,10 @@
+2024-03-17 14:35:02,298 INFO Insert into tLog and retrieve logID
+2024-03-17 14:35:02,470 INFO Created logID: 95fd3430-d9af-4401-a7fc-a5e50448b812
+2024-03-17 14:35:02,470 INFO Android Version Scraper Started
+2024-03-17 14:35:02,470 INFO Process started.
+2024-03-17 14:35:02,470 INFO Establishing connection to SFTP.
+2024-03-17 14:35:23,769 ERROR [Error] There is/are exception(s), please check.
+2024-03-17 14:35:23,769 ERROR Unable to connect to evoweb-app.prod.sg.evo.gfk.com: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-03-17 14:35:25,863 INFO Email sent.
+2024-03-17 14:35:25,863 INFO Updating tLog logID: 95fd3430-d9af-4401-a7fc-a5e50448b812 with status: 2
+2024-03-17 14:35:25,988 INFO SGTAM log updated.

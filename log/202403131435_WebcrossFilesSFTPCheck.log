@@ -1,0 +1,16 @@
+2024-03-13 14:35:02,428 INFO Insert into tLog and retrieve logID
+2024-03-13 14:35:02,647 INFO Created logID: 79931955-47cc-40f7-8bf0-405c3f41f461
+2024-03-13 14:35:02,647 INFO Android Version Scraper Started
+2024-03-13 14:35:02,647 INFO Process started.
+2024-03-13 14:35:02,647 INFO Establishing connection to SFTP.
+2024-03-13 14:35:04,241 INFO Connected (version 2.0, client OpenSSH_8.2p1)
+2024-03-13 14:35:06,350 INFO Authentication (password) successful!
+2024-03-13 14:35:06,350 INFO Connection is established.
+2024-03-13 14:35:06,350 INFO Navigating to '/opt/census_data/import/'.
+2024-03-13 14:35:09,194 INFO [chan 0] Opened sftp connection (server version 3)
+2024-03-13 14:35:10,007 INFO Listing all files and folders.
+2024-03-13 14:35:13,085 INFO [chan 0] sftp session closed.
+2024-03-13 14:35:13,085 INFO SFTP connection has been closed.
+2024-03-13 14:35:13,085 INFO [OK] No webcross files detected in Census SFTP.
+2024-03-13 14:35:13,085 INFO Updating tLog logID: 79931955-47cc-40f7-8bf0-405c3f41f461 with status: 1
+2024-03-13 14:35:13,210 INFO SGTAM log updated.
